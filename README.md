@@ -1,4 +1,4 @@
-# wall-calendar
+# TimeScape
 
 # 📅 Interactive Wall Calendar
 
